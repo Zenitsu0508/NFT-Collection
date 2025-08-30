@@ -916,3 +916,4 @@ To make the collection available on Opensea, we would need to create a metadata 
 - Share your Opensea link with everyone on discord :) and spread happiness.
 AAAAAAAAAAAAAAAAA
 A
+A
