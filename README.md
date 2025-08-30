@@ -914,4 +914,4 @@ To make the collection available on Opensea, we would need to create a metadata 
 - Your NFT is now available on Opensea 🚀 🥳
 
 - Share your Opensea link with everyone on discord :) and spread happiness.
-AAAAAAAA
+AAAAAAAAA
